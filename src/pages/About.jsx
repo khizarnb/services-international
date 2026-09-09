@@ -43,7 +43,7 @@ export default function About() {
             
             <motion.div initial="hidden" whileInView="visible" viewport={{ once: true }} variants={fadeInUp} className="relative">
               {/* Changed image to a striking port/container image */}
-              <img src="https://images.unsplash.com/photo-1586528116311-ad8ed7fcce28?auto=format&fit=crop&q=80" alt="Karachi Port Containers" className="rounded-2xl shadow-medium border border-border aspect-[4/3] object-cover" />
+              <img src="https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3?auto=format&fit=crop&w=800&q=80" alt="Karachi Port Containers" className="rounded-2xl shadow-medium border border-border aspect-[4/3] object-cover" />
               <div className="absolute -bottom-10 -left-10 bg-secondary p-8 rounded-2xl shadow-strong text-white border-b-4 border-primary">
                 <div className="flex items-center gap-4 mb-2">
                   <Anchor className="h-10 w-10 text-primary" />
