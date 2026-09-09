@@ -169,7 +169,7 @@ export default function Home() {
             
             <motion.div initial="hidden" whileInView="visible" viewport={{ once: true }} variants={fadeInUp} className="order-1 lg:order-2 relative">
               <div className="absolute inset-0 bg-primary/10 transform translate-x-4 translate-y-4 rounded-2xl z-0"></div>
-              <img src="https://images.unsplash.com/photo-1573164713988-8665fc963095?auto=format&fit=crop&w=800&q=80" alt="Leadership Team" className="relative z-10 rounded-2xl shadow-medium aspect-[4/3] object-cover" />
+              <img src="https://images.unsplash.com/photo-1521791136064-7986c2920216?auto=format&fit=crop&w=800&q=80" alt="Team Trust Hands" className="relative z-10 rounded-2xl shadow-medium aspect-[4/3] object-cover" />
             </motion.div>
           </div>
         </Container>
