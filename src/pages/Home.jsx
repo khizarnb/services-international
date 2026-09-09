@@ -71,7 +71,7 @@ export default function Home() {
                 <div className="absolute inset-0 bg-gradient-to-t from-secondary/90 via-secondary/40 to-transparent flex items-end p-8">
                   <div className="text-white">
                     <ShieldCheck className="h-10 w-10 text-primary mb-4" />
-                    <h4 className="text-2xl font-bold mb-2">Unmatched Expertise</h4>
+                    <h4 className="text-white text-2xl font-bold mb-2">Unmatched Expertise</h4>
                     <p className="text-gray-300 text-sm max-w-sm leading-relaxed">Handling complex consignments for industry giants, navigating customs seamlessly, and delivering without delay.</p>
                   </div>
                 </div>
